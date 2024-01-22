@@ -1,0 +1,39 @@
+Enter the number of nodes: 5
+Enter the adjacency matrix:
+0 1 0 0 0
+1 0 1 0 0
+0 1 0 1 0
+1 1 0 0 1
+1 1 1 1 0
+Enter the personalization vector: 1 1 1 1 1
+[0.05745571 0.12920333 0.19511579 0.32390607 0.29431911]
+Flipkart 0.32390606899480817
+LeatCode 0.29431911211370204
+Amazon 0.19511578610058156
+IMDB 0.12920332601312046
+WikipIdia 0.05745570677778811
+Total Probabality:- 1.0000000000000004
+
+
+
+\[
+\begin{bmatrix}
+    & 1 & 2 & 3 & 4 \\
+1 & 0 & 1 & 1 & 0 & \\
+2 & 1 & 0 & 0 & 1 & \\
+3 & 1 & 0 & 0 & 1 & \\
+4 & 1 & 1 & 1 & 0 & \\
+\end{bmatrix}
+\\\\ 
+\]
+
+
+
+N = \begin{bmatrix}
+    & 1 & 2 & 3 & 4 \\
+1 & 0 & \frac{0}{5} & \frac{1}{3} & 0 \\
+2 & \frac{1}{4} & 0 & 0 & \frac{0}{2} \\
+3 & \frac{1}{4} & 0 & 0 & \frac{1}{2} \\
+4 & \frac{1}{4} & \frac{1}{5} & \frac{0}{3} & 0 \\
+\end{bmatrix}
+\]
