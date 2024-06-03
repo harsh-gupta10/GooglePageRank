@@ -19,3 +19,12 @@ In this project, we delve into the mathematics and algorithms that underlie Page
 
 ## Acknowledgments
 Special thanks to Larry Page and Sergey Brin for pioneering the PageRank algorithm, which has had a significant impact on web search and information retrieval. Additionally, gratitude to the researchers and authors who have contributed to the understanding and development of PageRank.
+
+## Images
+![a](./Images/a.png)
+![a](./Images/b.png)
+![a](./Images/c.png)
+![a](./Images/d.png)
+![a](./Images/e.png)
+![a](./Images/f.png)
+
